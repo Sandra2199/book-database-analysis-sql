@@ -33,6 +33,10 @@ The database consists of five related tables:
 Relationships between tables are primarily established through `book_id`, enabling the combination of book information with ratings, reviews, authors, and publisher data.
 
 ---
+### Database Schema
+<img width="822" height="522" alt="database_schema" src="https://github.com/user-attachments/assets/bf8570d3-87ea-4e9a-9467-9f2ff5e5c8b8" />
+
+---
 
 ## Tools Used
 
